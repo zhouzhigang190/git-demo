@@ -1,5 +1,0 @@
-
-git status 查看仓库状态
-
-git init 初始化
-
